@@ -1,0 +1,16 @@
+<div class="item">
+  <div class="meta">
+    <div class="upper-row">
+      <h3 class="job-title">Corporate.</h3>
+      <div class="time">September 2021 - October 2021</div>
+    </div>
+    <div class="company">
+      Dynamic corporate website.
+      <br />
+      <span class="m-4 fst-italic"
+        >Technologies : Laravel 8, Bootstrap 5 & Ajax.
+        <a href="">Source code</a> - <a href="">Demo</a></span
+      >
+    </div>
+  </div>
+</div>
